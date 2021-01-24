@@ -1,5 +1,5 @@
 /*!
-    Title: Dev Portfolio Template
+    Title: Byeong-Hyeon Lee, M.A.
     Version: 1.2.2
     Last Change: 03/25/2020
     Author: Ryan Fitzgerald
@@ -96,7 +96,7 @@ body {
 
 // No JS styles
 .no-js {
-    #experience-timeline {
+    #publication-timeline {
         > div {
             background: $background;
             padding: 10px;
@@ -461,11 +461,11 @@ footer {
 
 /*
     --------------------------------
-    ----- 6. Experience Styles -----
+    ----- 6. Publication Styles -----
     --------------------------------
 */
 
-#experience {
+#Publication {
     padding: 50px 15px;
     text-align: center;
     border-bottom: 1px solid $border;
@@ -475,7 +475,7 @@ footer {
     }
 }
 
-#experience-timeline {
+#Publication-timeline {
     margin: 30px auto 0 auto;
     position: relative;
     max-width: 1000px;
